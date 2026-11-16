@@ -1,0 +1,11 @@
+{
+  "formatVersion": 1,
+  "version": "0.1.40",
+  "schema": 17,
+  "minimumClientVersion": "0.1.35",
+  "notes": "",
+  "envelope": {
+    "payload": "eyJ2ZXJzaW9uIjoiMC4xLjQwIiwibWluaW11bUNsaWVudFZlcnNpb24iOiIwLjEuMzUiLCJzY2hlbWFWZXJzaW9uIjoxNywibWlncmF0aW9uIjoibm9uZSIsImJhY2t1cFJlcXVpcmVkIjp0cnVlLCJjb21wb25lbnRzIjpbeyJuYW1lIjoiYXBpIiwiaW1hZ2UiOiJnaGNyLmlvL3Bld29ycy93ZWJzaG9wLWFwaUBzaGEyNTY6ZDE5MDNmOThkYTE2NzAxOTNkNTRlZTBhMDc0Yzg3Mjc1NzhkMTE4MjAwNzA1NWFiMGU0YTRlNjBlNGE1ZGJiMiJ9LHsibmFtZSI6IndvcmtlciIsImltYWdlIjoiZ2hjci5pby9wZXdvcnMvd2Vic2hvcC13b3JrZXJAc2hhMjU2Ojg3YzU0Mjc0NGIxZTZiMzQ2ZjQwMzg0Mjc1MTMyZGRkMTExOTQ1NzBlYWJhMWMxMmJjZWVlZGJhMzZmYjU3ZDgifSx7Im5hbWUiOiJzaG9wIiwiaW1hZ2UiOiJnaGNyLmlvL3Bld29ycy93ZWJzaG9wLXNob3BAc2hhMjU2OmRmNDI1YWUzNGFmZThhMjc5NDk5Yzc3ZmU3ZjkzMThmMDIxMTYwYjgzY2EzN2FhMzc3MDA5YmU5Y2U1YTlkMWQifSx7Im5hbWUiOiJhZG1pbiIsImltYWdlIjoiZ2hjci5pby9wZXdvcnMvd2Vic2hvcC1hZG1pbkBzaGEyNTY6MDllZjUwMDhkNGM2NzRhMjA3NDZjYWM2MTVlZTAzMTA5YTFhNmEyZmI5NmQ5ZjI1ZGU2NTkzYWRjZGQ3ODljMiJ9XX0=",
+    "signature": "MEYCIQC4BLm6uVLt03+dGojfUDm6k7Hoqh8TSQbX/0tGyPweRgIhAPmx7fxwHi+cdD6E9zy6xk3+5v7uMXYrW0x3GqFQ+LSD"
+  }
+}
